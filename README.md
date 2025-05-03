@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Your Name]!
 
-<!--
-**joey486/joey486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with a passion for building clean and scalable software — from sleek Flutter apps to low-level compiler backends. Currently working as a **Frontend Developer at Hudi**, where I craft responsive, performant UIs using **Flutter** with a custom **token-based design system** powered by [Mix](https://pub.dev/packages/mix).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- 🧩 **Building design systems** with token-based architecture (spacing, radius, colors, typography) in Flutter.
+- 🔧 **Writing a C++ compiler backend in Python**, including optimizations like:
+  - Constant Folding
+  - Dead Code Elimination
+  - Common Subexpression Elimination (via DAG)
+  - Loop-Invariant Code Motion
+- 🧮 Developing a **React Vector Calculator** with 2D/3D vector operations and canvas-based visualization.
+- 🎮 Modding and exploring the internals of **Fallout: New Vegas**.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 👨‍💻 Languages:
+- **Dart** (Flutter) – UI development, design systems
+- **JavaScript (ES6)** – React, Canvas API, DOM scripting
+- **Python** – Compiler design, data generation, scripting
+- **C++** – Systems programming, code generation
+- **SQL** – Database design, ERD modeling, query optimization
+
+### 🧰 Tools & Libraries:
+- **Flutter** / **Mix**
+- **React (JS only)** – Modular, canvas-based apps
+- **Pandas**, **functools**, **random**, **names** (for realistic data generation)
+- **VS Code**, **Git**, **Figma**, **Postman**
+
+### 🗃️ Databases:
+- PostgreSQL
+- MySQL
+- SQLite
+
+---
+
+## 📂 Featured Projects
+
+- 🎯 **[Vector Calculator](https://github.com/yourusername/vector-calculator)**  
+  A visual 2D/3D vector math tool in React with canvas-based rendering and modular JS architecture.
+
+- 🛠️ **C++ Compiler Backend in Python**  
+  Three-address code optimizer supporting DAG-based CSE, constant folding, copy propagation, and more.
+
+- 🗃️ **ERD-Based SQL Database Project**  
+  Full database setup including normalization (3NF), realistic insertions, and reusable SQL scripts (create, drop, insert, select).
+
+> 📌 Check my pinned repos below for full code and examples.
+
+---
+
+## 📚 Learning Goals
+
+- Strengthen low-level code generation and optimization techniques.
+- Design and maintain cross-platform design systems using scalable token patterns.
+- Deepen my knowledge of graphics rendering, especially for web-based tools and game engines.
+
+---
+
+## 📬 Get in Touch
+
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername)
+- 📧 Email: your.email@example.com
+- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(optional)*
+
+---
+
+Thanks for visiting! 🙌 Feel free to ⭐️ or fork any project that interests you.
