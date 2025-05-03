@@ -41,8 +41,9 @@ I'm a developer with a passion for building clean and scalable software — from
 
 ## 📂 Featured Projects
 
-- 🎯 **[Vector Calculator](https://github.com/yourusername/vector-calculator)**  
-  A visual 2D/3D vector math tool in React with canvas-based rendering and modular JS architecture.
+- 🎯 **[SymboMath](https://github.com/joey486/Calculator)**  
+  A all purpes claculator for computr science
+  https://calculator-vvxd.onrender.com/
 
 - 🛠️ **C++ Compiler Backend in Python**  
   Three-address code optimizer supporting DAG-based CSE, constant folding, copy propagation, and more.
