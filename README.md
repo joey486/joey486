@@ -25,10 +25,12 @@ I'm a developer with a passion for building clean and scalable software — from
 - **Python** – Compiler design, data generation, scripting
 - **C++** – Systems programming, code generation
 - **SQL** – Database design, ERD modeling, query optimization
+- **JAVA** – Ray Tracer
+- **LEAN** – Compiler from Jack to VM
 
 ### 🧰 Tools & Libraries:
 - **Flutter** / **Mix**
-- **React (JS only)** – Modular, canvas-based apps
+- **React (JS & TypeScript)** – Modular, canvas-based apps
 - **Pandas**, **functools**, **random**, **names** (for realistic data generation)
 - **VS Code**, **Git**, **Figma**, **Postman**
 
