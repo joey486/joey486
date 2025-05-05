@@ -65,9 +65,9 @@ I'm a developer with a passion for building clean and scalable software — from
 
 ## 📬 Get in Touch
 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourusername)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com) *(optional)*
+- 💼 LinkedIn: (https://www.linkedin.com/in/yosef-heifetz-64b6031b5/)
+- 📧 Email: yossi.heifetz06@gmail.com
+
 
 ---
 
