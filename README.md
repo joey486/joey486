@@ -45,7 +45,7 @@ I'm a developer with a passion for building clean and scalable software — from
   A all purpes claculator for computr science
   https://calculator-vvxd.onrender.com/
 
-- 🛠️ **C++ Compiler Backend in Python**  
+- 🛠️ **Jack Compiler Backend in Lean**  
   Three-address code optimizer supporting DAG-based CSE, constant folding, copy propagation, and more.
 
 - 🗃️ **ERD-Based SQL Database Project**  
