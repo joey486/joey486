@@ -7,7 +7,7 @@ I'm a developer with a passion for building clean and scalable software — from
 ## 🚀 What I'm Working On
 
 - 🧩 **Building design systems** with token-based architecture (spacing, radius, colors, typography) in Flutter.
-- 🔧 **Writing a C++ compiler backend in Python**, including optimizations like:
+- 🔧 **Writing a Jack compiler backend in Lean**, including optimizations like:
   - Constant Folding
   - Dead Code Elimination
   - Common Subexpression Elimination (via DAG)
