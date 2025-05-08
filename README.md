@@ -1,25 +1,25 @@
-# 👋 Hi there, I'm Joey!
+# Hi there, I'm Joey!
 
 I'm a developer with a passion for building clean and scalable software — from sleek Flutter apps to low-level compiler backends. Currently working as a **Frontend Developer at Hudi**, where I craft responsive, performant UIs using **Flutter** with a custom **token-based design system** powered by [Mix](https://pub.dev/packages/mix).
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
-- 🧩 **Building design systems** with token-based architecture (spacing, radius, colors, typography) in Flutter.
-- 🔧 **Writing a Jack compiler backend in Lean**, including optimizations like:
+- **Building design systems** with token-based architecture (spacing, radius, colors, typography) in Flutter.
+- **Writing a Jack compiler backend in Lean**, including optimizations like:
   - Constant Folding
   - Dead Code Elimination
   - Common Subexpression Elimination (via DAG)
   - Loop-Invariant Code Motion
-- 🧮 Developing a **React Vector Calculator** with 2D/3D vector operations and canvas-based visualization.
-- 🎮 Modding and exploring the internals of **Fallout: New Vegas**.
+- Developing a **React Vector Calculator** with 2D/3D vector operations and canvas-based visualization.
+- Modding and exploring the internals of **Fallout: New Vegas**.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠Tech Stack & Tools
 
-### 👨‍💻 Languages:
+### Languages:
 - **Dart** (Flutter) – UI development, design systems
 - **JavaScript (ES6)** – React, Canvas API, DOM scripting
 - **Python** – Compiler design, data generation, scripting
@@ -30,36 +30,36 @@ I'm a developer with a passion for building clean and scalable software — from
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joey486)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joey486))
 
-### 🧰 Tools & Libraries:
+### Tools & Libraries:
 - **Flutter** / **Mix**
 - **React (JS & TypeScript)** – Modular, canvas-based apps
 - **Pandas**, **functools**, **random**, **names** (for realistic data generation)
 - **VS Code**, **Git**, **Figma**, **Postman**
 
-### 🗃️ Databases:
+### Databases:
 - PostgreSQL
 - MySQL
 - SQLite
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-- 🎯 **[SymboMath](https://github.com/joey486/Calculator)**  
+- **[SymboMath](https://github.com/joey486/Calculator)**  
   A all purpes claculator for computr science
   https://calculator-vvxd.onrender.com/
 
-- 🛠️ **Jack Compiler Backend in Lean**  
+- **Jack Compiler Backend in Lean**  
   Three-address code optimizer supporting DAG-based CSE, constant folding, copy propagation, and more.
 
-- 🗃️ **ERD-Based SQL Database Project**  
+- **ERD-Based SQL Database Project**  
   Full database setup including normalization (3NF), realistic insertions, and reusable SQL scripts (create, drop, insert, select).
 
-> 📌 Check my pinned repos below for full code and examples.
+> Check my pinned repos below for full code and examples.
 
 ---
 
-## 📚 Learning Goals
+## Learning Goals
 
 - Strengthen low-level code generation and optimization techniques.
 - Design and maintain cross-platform design systems using scalable token patterns.
@@ -67,7 +67,7 @@ I'm a developer with a passion for building clean and scalable software — from
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 - 💼 LinkedIn: (https://www.linkedin.com/in/yosef-heifetz-64b6031b5/)
 - 📧 Email: yossi.heifetz06@gmail.com
@@ -75,4 +75,4 @@ I'm a developer with a passion for building clean and scalable software — from
 
 ---
 
-Thanks for visiting! 🙌 Feel free to ⭐️ or fork any project that interests you.
+Thanks for visiting! 🙌 Feel free to or fork any project that interests you.
