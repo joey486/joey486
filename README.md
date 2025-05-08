@@ -29,6 +29,8 @@ I'm a developer with a passion for building clean and scalable software — from
 - **LEAN** – Compiler from Jack to VM
 
 ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joey486&layout=compact&theme=dark)
+
+![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joey486&theme=default)
  
 
 ### Tools & Libraries:
