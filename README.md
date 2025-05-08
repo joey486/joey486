@@ -17,7 +17,7 @@ I'm a developer with a passion for building clean and scalable software — from
 
 ---
 
-## 🛠Tech Stack & Tools
+## Tech Stack & Tools
 
 ### Languages:
 - **Dart** (Flutter) – UI development, design systems
