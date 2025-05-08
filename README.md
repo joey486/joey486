@@ -28,7 +28,7 @@ I'm a developer with a passion for building clean and scalable software — from
 - **JAVA** – Ray Tracer
 - **LEAN** – Compiler from Jack to VM
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joey486)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joey486)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joey486))
 
 ### 🧰 Tools & Libraries:
 - **Flutter** / **Mix**
