@@ -13,7 +13,6 @@ I'm a developer with a passion for building clean and scalable software — from
   - Common Subexpression Elimination (via DAG)
   - Loop-Invariant Code Motion
 - Developing a **React Vector Calculator** with 2D/3D vector operations and canvas-based visualization.
-- Modding and exploring the internals of **Fallout: New Vegas**.
 
 ---
 
@@ -28,7 +27,7 @@ I'm a developer with a passion for building clean and scalable software — from
 - **JAVA** – Ray Tracer
 - **LEAN** – Compiler from Jack to VM
 
-![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joey486&layout=compact&theme=dark)
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joey486&layout=compact&theme=dark)](https://ionicabizau.github.io/github-profile-languages/?user=%2540joey486)
  
 
 ### Tools & Libraries:
