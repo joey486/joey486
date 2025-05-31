@@ -27,7 +27,7 @@ I'm a developer with a passion for building clean and scalable software — from
 - **JAVA** – Ray Tracer
 - **LEAN** – Compiler from Jack to VM
 
-[![GitHub Language Stats](https://ionicabizau.github.io/github-profile-languages/?user=%2540joey486)](https://ionicabizau.github.io/github-profile-languages/?user=%2540joey486)
+[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=joey486&layout=compact&theme=dark)](https://ionicabizau.github.io/github-profile-languages/?user=%2540joey486)
 
  
 
