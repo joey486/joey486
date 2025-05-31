@@ -28,6 +28,9 @@ I'm a developer with a passion for building clean and scalable software — from
 - **LEAN** – Compiler from Jack to VM
 
 [![GitHub Language Stats](https://ionicabizau.github.io/github-profile-languages/api.html?@joey486)](https://ionicabizau.github.io/github-profile-languages/?user=%2540joey486)
+
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?@joey486" frameborder="0"></iframe>
+
  
 
 ### Tools & Libraries:
