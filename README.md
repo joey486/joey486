@@ -1,6 +1,6 @@
 # Hi there, I'm Joey!
 
-I'm a developer with a passion for building clean and scalable software — from sleek Flutter apps to low-level compiler backends. Currently working as a **Frontend Developer at Hudi**, where I craft responsive, performant UIs using **Flutter** with a custom **token-based design system** powered by [Mix](https://pub.dev/packages/mix).
+I'm a developer with a passion for building clean and scalable software — from sleek Flutter apps to low-level compiler backends. Currently working as a **Full-Stack Developer at Hudi**, where I craft responsive, performant UIs using **Flutter** with a custom **token-based design system** powered by [Mix](https://pub.dev/packages/mix).
 
 ---
 
